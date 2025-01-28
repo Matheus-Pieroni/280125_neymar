@@ -2,7 +2,6 @@
     width: 100%;
     background-color: #00054B;
     word-spacing: 5px;
-    border: 15px;
     color: white;
     font-family: "Jersey 15";
     font-weight: 200;
@@ -12,7 +11,7 @@
     left: -10px;
     width: 102%;
     height: 100px;
-    top: -10px;
+    top: -20%;
 }
 
 body {
@@ -29,6 +28,8 @@ a {
 }
 
 .img {
-    position:relative;
-    left:-5%;
+    position:absolute;
+    scale: 63%;
+    top: -20%;
+    left: -2%;
 }
