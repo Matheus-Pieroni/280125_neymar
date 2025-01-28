@@ -7,11 +7,11 @@
     font-weight: 200;
     font-size: 50px;
     text-align: center;
-    position: relative;
+    position: absolute;
     left: -10px;
     width: 102%;
-    height: 100px;
-    top: -20%;
+    height: 120px;
+    top: -0.5%;
 }
 
 body {
@@ -29,7 +29,7 @@ a {
 
 .img {
     position:absolute;
-    scale: 63%;
-    top: -20%;
-    left: -2%;
+    scale: 65%;
+    top: -13%;
+    left: 0%;
 }
