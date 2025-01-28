@@ -1,0 +1,34 @@
+.header {
+    width: 100%;
+    background-color: #00054B;
+    word-spacing: 5px;
+    border: 15px;
+    color: white;
+    font-family: "Jersey 15";
+    font-weight: 200;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    left: -10px;
+    width: 102%;
+    height: 100px;
+    top: -10px;
+}
+
+body {
+    background-color: #E1E7FC;
+}
+
+a {
+    position: relative;
+    text-decoration: none;
+    color: #E1E7FC;
+    top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.img {
+    position:relative;
+    left:-5%;
+}
